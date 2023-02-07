@@ -3,7 +3,7 @@
 :root {
   --primary-color: rgba(13, 110, 139, 0.69);
   --secondary-color: rgba(229, 148, 0, 0.9);
-  --secondary-color: rgba(24, 39, 51, 0.8);
+  --overlay-color: rgba(24, 39, 51, 0.8);
   --menu-load-speed: 0.75s;
 }
 
